@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="First Table" language="en" table="x_273846_testapp_first_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>First Table</label>
+            <language>en</language>
+            <name>x_273846_testapp_first_table</name>
+            <plural>First Tables</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-06-28 08:19:59</sys_created_on>
+            <sys_id>32616e6a1b101110e30da9b4bd4bcbf5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>First Table</sys_name>
+            <sys_package display_value="TestApp" source="x_273846_testapp">513fdaa61b101110e30da9b4bd4bcb56</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="TestApp">513fdaa61b101110e30da9b4bd4bcb56</sys_scope>
+            <sys_update_name>sys_documentation_x_273846_testapp_first_table__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-06-28 08:19:59</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
